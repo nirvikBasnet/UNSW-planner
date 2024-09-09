@@ -1,0 +1,138 @@
+{
+  "term": "T3 2024",
+  "calendar": [
+    {
+      "week": 1,
+      "days": [
+        {"day": 9, "month": 9, "weekday": "Monday", "event": "T3 Teaching Period Begins"},
+        {"day": 10, "month": 9, "weekday": "Tuesday", "event": ""},
+        {"day": 11, "month": 9, "weekday": "Wednesday", "event": ""},
+        {"day": 12, "month": 9, "weekday": "Thursday", "event": ""},
+        {"day": 13, "month": 9, "weekday": "Friday", "event": ""},
+        {"day": 14, "month": 9, "weekday": "Saturday", "event": ""},
+        {"day": 15, "month": 9, "weekday": "Sunday", "event": ""}
+      ]
+    },
+    {
+      "week": 2,
+      "days": [
+        {"day": 16, "month": 9, "weekday": "Monday", "event": ""},
+        {"day": 17, "month": 9, "weekday": "Tuesday", "event": ""},
+        {"day": 18, "month": 9, "weekday": "Wednesday", "event": ""},
+        {"day": 19, "month": 9, "weekday": "Thursday", "event": ""},
+        {"day": 20, "month": 9, "weekday": "Friday", "event": ""},
+        {"day": 21, "month": 9, "weekday": "Saturday", "event": ""},
+        {"day": 22, "month": 9, "weekday": "Sunday", "event": ""}
+      ]
+    },
+    {
+      "week": 3,
+      "days": [
+        {"day": 23, "month": 9, "weekday": "Monday", "event": ""},
+        {"day": 24, "month": 9, "weekday": "Tuesday", "event": ""},
+        {"day": 25, "month": 9, "weekday": "Wednesday", "event": ""},
+        {"day": 26, "month": 9, "weekday": "Thursday", "event": ""},
+        {"day": 27, "month": 9, "weekday": "Friday", "event": ""},
+        {"day": 28, "month": 9, "weekday": "Saturday", "event": ""},
+        {"day": 29, "month": 9, "weekday": "Sunday", "event": ""}
+      ]
+    },
+    {
+      "week": 4,
+      "days": [
+        {"day": 30, "month": 9, "weekday": "Monday", "event": ""},
+        {"day": 1, "month": 10, "weekday": "Tuesday", "event": ""},
+        {"day": 2, "month": 10, "weekday": "Wednesday", "event": ""},
+        {"day": 3, "month": 10, "weekday": "Thursday", "event": ""},
+        {"day": 4, "month": 10, "weekday": "Friday", "event": ""},
+        {"day": 5, "month": 10, "weekday": "Saturday", "event": ""},
+        {"day": 6, "month": 10, "weekday": "Sunday", "event": "T3 Census Date, Labour Day P/Holiday"}
+      ]
+    },
+    {
+      "week": 5,
+      "days": [
+        {"day": 7, "month": 10, "weekday": "Monday", "event": ""},
+        {"day": 8, "month": 10, "weekday": "Tuesday", "event": ""},
+        {"day": 9, "month": 10, "weekday": "Wednesday", "event": ""},
+        {"day": 10, "month": 10, "weekday": "Thursday", "event": ""},
+        {"day": 11, "month": 10, "weekday": "Friday", "event": ""},
+        {"day": 12, "month": 10, "weekday": "Saturday", "event": ""},
+        {"day": 13, "month": 10, "weekday": "Sunday", "event": ""}
+      ]
+    },
+    {
+      "week": 6,
+      "days": [
+        {"day": 14, "month": 10, "weekday": "Monday", "event": ""},
+        {"day": 15, "month": 10, "weekday": "Tuesday", "event": ""},
+        {"day": 16, "month": 10, "weekday": "Wednesday", "event": ""},
+        {"day": 17, "month": 10, "weekday": "Thursday", "event": ""},
+        {"day": 18, "month": 10, "weekday": "Friday", "event": ""},
+        {"day": 19, "month": 10, "weekday": "Saturday", "event": ""},
+        {"day": 20, "month": 10, "weekday": "Sunday", "event": "T3 Deadline to Drop Without Academic Penalty"}
+      ]
+    },
+    {
+      "week": 7,
+      "days": [
+        {"day": 21, "month": 10, "weekday": "Monday", "event": ""},
+        {"day": 22, "month": 10, "weekday": "Tuesday", "event": ""},
+        {"day": 23, "month": 10, "weekday": "Wednesday", "event": "T3 Provisional Exam Timetable Released"},
+        {"day": 24, "month": 10, "weekday": "Thursday", "event": ""},
+        {"day": 25, "month": 10, "weekday": "Friday", "event": ""},
+        {"day": 26, "month": 10, "weekday": "Saturday", "event": ""},
+        {"day": 27, "month": 10, "weekday": "Sunday", "event": ""}
+      ]
+    },
+    {
+      "week": 8,
+      "days": [
+        {"day": 28, "month": 10, "weekday": "Monday", "event": "T3 Final Exam Timetable Released"},
+        {"day": 29, "month": 10, "weekday": "Tuesday", "event": ""},
+        {"day": 30, "month": 10, "weekday": "Wednesday", "event": ""},
+        {"day": 31, "month": 10, "weekday": "Thursday", "event": ""},
+        {"day": 1, "month": 11, "weekday": "Friday", "event": ""},
+        {"day": 2, "month": 11, "weekday": "Saturday", "event": ""},
+        {"day": 3, "month": 11, "weekday": "Sunday", "event": ""}
+      ]
+    },
+    {
+      "week": 9,
+      "days": [
+        {"day": 4, "month": 11, "weekday": "Monday", "event": ""},
+        {"day": 5, "month": 11, "weekday": "Tuesday", "event": ""},
+        {"day": 6, "month": 11, "weekday": "Wednesday", "event": ""},
+        {"day": 7, "month": 11, "weekday": "Thursday", "event": ""},
+        {"day": 8, "month": 11, "weekday": "Friday", "event": ""},
+        {"day": 9, "month": 11, "weekday": "Saturday", "event": ""},
+        {"day": 10, "month": 11, "weekday": "Sunday", "event": ""}
+      ]
+    },
+    {
+      "week": 10,
+      "days": [
+        {"day": 11, "month": 11, "weekday": "Monday", "event": ""},
+        {"day": 12, "month": 11, "weekday": "Tuesday", "event": ""},
+        {"day": 13, "month": 11, "weekday": "Wednesday", "event": ""},
+        {"day": 14, "month": 11, "weekday": "Thursday", "event": ""},
+        {"day": 15, "month": 11, "weekday": "Friday", "event": "T3 Last Teaching Day, T3 Deadline to Drop With Academic Penalty"},
+        {"day": 16, "month": 11, "weekday": "Saturday", "event": ""},
+        {"day": 17, "month": 11, "weekday": "Sunday", "event": ""}
+      ]
+    }
+  ],
+  "key_dates": {
+    "T3 Teaching Period": {"start": {"day": 9, "month": 9}, "end": {"day": 15, "month": 11}},
+    "T3 Enrolment Deadline": {"day": 15, "month": 9},
+    "T3 Payment Due Date": {"day": 15, "month": 9},
+    "T3 Census Date": {"day": 6, "month": 10},
+    "T3 Deadline to Drop Without Academic Penalty": {"day": 20, "month": 10},
+    "T3 Provisional Exam Timetable Released": {"day": 23, "month": 10},
+    "T3 Final Exam Timetable Released": "28 Oct",
+    "T3 Deadline to Drop With Academic Penalty": "15 Nov",
+    "T3 Study Period": "16 Nov - 21 Nov",
+    "T3 Exams": "22 Nov - 5 Dec",
+    "T3 Release of Results": "12 Dec"
+  }
+}
